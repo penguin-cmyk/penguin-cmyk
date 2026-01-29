@@ -5,7 +5,7 @@
     style="border-radius: 50%; width: 200px; height: 200px;">
   <h1>About Me</h1>
   <p><sub><i style="color: #6e6e6e;">
-    16-year-old German developer passionate about systems programming and creating useful tools
+    17-year-old German developer passionate about systems programming and creating useful tools
   </i></sub></p>
 </div>
 
