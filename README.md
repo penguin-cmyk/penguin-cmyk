@@ -10,7 +10,7 @@
 </div>
 
 ## Who am I?
-Hello! I'm Penguin, a 16-year-old developer from Germany who loves systems programming. I'm passionate about creating utilities and tools that make developers' lives easier, with a particular focus on low-level programming languages like C, x86_64 assembly, and Rust.
+Hello! I'm Penguin, a 17-year-old developer from Germany who loves systems programming. I'm passionate about creating utilities and tools that make developers' lives easier, with a particular focus on low-level programming languages like C, x86_64 assembly, and Rust.
 
 ## Why "Penguin"?
 The name Penguin has a fun origin story. It started when I used Kowalski from "Penguins of Madagascar" as my profile picture. People began calling me "Penguin", and the name just stuck. 
