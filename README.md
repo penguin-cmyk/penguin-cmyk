@@ -17,5 +17,5 @@ The name Penguin has a fun origin story. It started when I used Kowalski from "P
 
 ## Get in touch
 If you would like to contact me you can write me a message on my discord:
--  name: atomicwaffle17
--  userid: 900683903780651008
+-  name: sonicle
+-  userid: 993905675606425670
